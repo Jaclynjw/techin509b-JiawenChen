@@ -3,3 +3,5 @@ cat
 fish
 elephant
 pig
+kangaroo
+zebra
